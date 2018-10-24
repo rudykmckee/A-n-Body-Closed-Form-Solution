@@ -1,6 +1,8 @@
 # A-n-Body-Closed-Form-Solution
      This page is under construction...but you can view any pdf file by clicking its button.  
+     
      Feel free to comment about the contents of these files (use the Guestbook).  
+     
      As of 8/27/2017, there has been more than 10000+ hits (recorded by WEBS.com) from all over the world; 
      and counting (about an average of 7 a day). There probably are many, tens-of-thousands, more not 
      recordable because they have turned on their “do not track” button. 
